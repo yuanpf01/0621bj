@@ -9,6 +9,8 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * @author yuanpf
  * @create 2020-11-26 23:08
+ *
+ * 创建线程的四种方式
  */
 public class CreatedThread {
     public static void main(String[] args) {
